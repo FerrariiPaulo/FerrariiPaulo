@@ -5,7 +5,7 @@ Engenheiro de Software, amante de códigos e café.
 <div>
   <a href="https://github.com/FerrariiPaulo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferrariipaulo&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide=contribs,prs"/>
-</div
+</div>
 
 
 <div display="inline">  
