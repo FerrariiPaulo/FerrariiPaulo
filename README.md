@@ -7,7 +7,7 @@ Engenheiro de Software, amante de códigos e café.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferrariipaulo&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide=contribs,prs"/>
 </div
 
-- 🖥️ Atualmente focado em:
+
 <div display="inline">  
   <img width= "50" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img width= "50" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
