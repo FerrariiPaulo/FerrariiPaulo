@@ -1,16 +1,26 @@
-### Hi there 👋
+### Oi, eu sou o Paulo 👋
 
-<!--
-**FerrariiPaulo/FerrariiPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Software, amante de códigos e café.
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/FerrariiPaulo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferrariipaulo&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide=contribs,prs"/>
+</div
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Atualmente focado em:
+<div display="inline">  
+  <img width= "50" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width= "50" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width= "50" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+  <img width= "50" height= "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />      
+</div>
+
+### Onde você pode me encontrar:
+<div>
+  <a href = "mailto:paulomferrari26@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/paulo-matheus-mota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+                   
+
+
+
